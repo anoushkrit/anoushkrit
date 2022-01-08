@@ -1,16 +1,13 @@
-# Anoushkrit Goel
+## Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**anoushkrit/anoushkrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="mailto:anoushkritgoel@gmail.com">
+  <img align="left" alt="Anoushkrit's Email" width="30px" src="" />
+</a>
+<a href="https://www.linkedin.com/in/anoushkrit/">
+  <img align="left" alt="Anoushkrit's Linkedin" width="30px" src="" />
+</a>
+<a href="https://www.twitter.com/anoushkrit">
+  <img align="left" alt="Anoushkrit's Twitter" width="30px" src="" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
