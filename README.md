@@ -22,6 +22,6 @@
 Welcome to my Github Profile, 
 
 * I Research, Work, Build in Deep Learning,  Deep Reinforcement Learning, Machine Learning with a focus on Healthcare and Human Assistance.
-* Talk to me about Sustainable and Impactful Entrepreneurship, Pragmatic Leadership, Behavioural Psychology, Cognitive Science, Innovative Healthcare Solutions, Artificial Intelligence, and Functional Fitness.
+* Talk to me about Sustainable and Impactful Entrepreneurship, Pragmatic Leadership, Behavioural Psychology, Cognitive Science, Innovative Solutions, Artificial Intelligence, and Functional Fitness.
 * I enjoy reading non-fiction books, and engaging in various physical pursuits.
 * Rarely I escape into creating pencil sketches and other art pieces.
