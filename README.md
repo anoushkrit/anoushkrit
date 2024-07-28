@@ -5,9 +5,9 @@
 <a href="https://www.linkedin.com/in/anoushkrit/">
   <img align="left" alt="Anoushkrit's Linkedin" width="30px" src="assets/linkedin.svg" />
 </a>
-<a href="">
+<!-- <a href="">
   <img align="left" alt="Anoushkrit's Medium" width="30px" src="assets/medium.svg" />
-</a>
+</a> -->
 <a href="https://www.twitter.com/anoushkrit">
   <img align="left" alt="Anoushkrit's Twitter" width="30px" src="assets/twitter.svg" />
 </a>
